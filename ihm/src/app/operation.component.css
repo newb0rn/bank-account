@@ -1,0 +1,36 @@
+.title {
+  font-size: 30px;
+  text-align: center;
+  font-family: "Gill Sans", sans-serif;
+  height: 90px;
+  position: relative;
+}
+
+.centered-div {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.verification-deposit {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.input-deposit {
+  display: flex;
+  flex-direction: column;
+}
+
+.mat-tab-group {
+  margin-bottom: 48px;
+}
+
+.padding-top-30 {
+  padding-top: 30px;
+}
+
+.text-align-center {
+  text-align: center;
+}
